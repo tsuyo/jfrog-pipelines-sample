@@ -1,0 +1,9 @@
+[submodule "jfrog-pipelines-sample--docker"]
+	path = jfrog-pipelines-sample--docker
+	url = https://github.com/tsuyo/jfrog-pipelines-sample--docker
+[submodule "jfrog-pipelines-sample--helm-chart"]
+	path = jfrog-pipelines-sample--helm-chart
+	url = https://github.com/tsuyo/jfrog-pipelines-sample--helm-chart
+[submodule "jfrog-pipelines-sample--helm-deploy"]
+	path = jfrog-pipelines-sample--helm-deploy
+	url = https://github.com/tsuyo/jfrog-pipelines-sample--helm-deploy
